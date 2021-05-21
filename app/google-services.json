@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "989836128250",
+    "project_id": "alohadelivery-2913d",
+    "storage_bucket": "alohadelivery-2913d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989836128250:android:86d3ec3d7d718c7935fe43",
+        "android_client_info": {
+          "package_name": "com.example.hyhy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989836128250-3dbmihq5j8ftv06496vong2keu93o79g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hyhy",
+            "certificate_hash": "7ac6f729eccd1bef6bfe143c738b5262b4d19326"
+          }
+        },
+        {
+          "client_id": "989836128250-mb9cb086h9vqlpmb1oupcuh78u4ro0rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIbrpZe-LP2Z0KEkqPVrop2jleCs1DIMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989836128250-mb9cb086h9vqlpmb1oupcuh78u4ro0rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
